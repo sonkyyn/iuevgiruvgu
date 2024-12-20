@@ -1,0 +1,13 @@
+h1 {
+    font-size: 22px;
+    color: rgb(20, 100, 220);
+}
+body {
+    background-color: bisque;
+}
+p {
+    text-decoration: underline; color: rgb(42, 44, 165); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+.my-elem {
+    border: 5px solid blue;
+}
